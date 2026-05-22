@@ -1,9 +1,6 @@
 # Levels Problems
 
-This folder contains Level 2 logic-building problems and solutions in Java.
+This folder contains Level  logic-building problems and solutions in Java.
 
 ## Topics
-- Loops
-- Patterns
-- Arrays
-- Functions
+- simple  if 
