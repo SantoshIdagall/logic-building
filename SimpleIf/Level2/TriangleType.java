@@ -9,16 +9,15 @@ public class TriangleType {
          
       }
       else if (a==b || b==c || a==c) {
-         return "Isosceles";
+         return "Isosceles":
           
       }
       else{
         return " Scalene";
-        
+      
       }
     }
      public static void main(String[] args) {
-
         int a = 3, b = 4, c = 5;
         System.out.println(isTypeTriangle(a, b, c));
      }
