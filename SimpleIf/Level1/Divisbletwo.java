@@ -6,8 +6,6 @@ public class Divisbletwo {
         }
         else{
             System.out.println(" not divisible by both");
-        }
-         
+        }  
     }
-    
 }
