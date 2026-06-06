@@ -3,7 +3,7 @@ public class Tempture {
     public static  String checktemp(int temp){
 
         if (temp<10 )
-            return"cpld";
+            return"cold";
         else if( temp < 30) return "warm";
         else return "hot";
 
