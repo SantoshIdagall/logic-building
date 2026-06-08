@@ -8,7 +8,7 @@ public class Multiplecheck {
 
      }
       public static void main(String[] args) {
-        int a =  5 , b= 10;
+        int a =  5 , b= 10; 
         System.out.println(chekMultiple(a, b));
       }
     
