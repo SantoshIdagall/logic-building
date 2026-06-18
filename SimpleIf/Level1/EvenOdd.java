@@ -1,5 +1,5 @@
 public class EvenOdd {
-     //Check if a number is even or odd
+     //Check if a number is even or odd 
      public static void main(String[] args) {
         int num = 10;
 
